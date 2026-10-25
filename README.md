@@ -1,18 +1,18 @@
-# Open Digital Life Lab · Physis Forge
+# Open Digital Life Lab
 
-Public intro site for **Physis Forge（问道生相）** / Open Digital Life Lab.
+Research sponsorship page for **Physis Forge** — digital life that can sense and understand its world, through two connected lines:
 
-- Site (GitHub Pages): https://zouting1973-sg.github.io/opendigitallifelab/
-- Source mirror: `/workspace/zhongsenyike-site/` on the bot box
-- Operating entity: 中森宜科（上海）生态科技有限公司
+- **Cell Paradigm** — cognition
+- **Aisthesis — Ground** — perception
 
-Research lines: **Cell Paradigm** (cognition) × **Aisthesis** (perception).
+What Aisthesis senses becomes what Cell Paradigm can learn from.
 
 ## Sponsor (platform only)
 
-- Patreon: https://www.patreon.com/cw/opendigitallifelab
-- FANBOX: https://opendigitallab.fanbox.cc/
-- Ko-fi: https://ko-fi.com/opendigitallifelab
+Please support only through these pages. This is voluntary **research sponsorship** — not an investment, not a charity appeal, and not a donation drive. No equity or financial return. Spending is published by category; sponsor personal data is not published.
+
+- **Patreon** (EN): https://www.patreon.com/cw/opendigitallifelab
+- **Ko-fi**: https://ko-fi.com/opendigitallifelab
 
 Contact: opendigitallifelab@gmail.com
 
