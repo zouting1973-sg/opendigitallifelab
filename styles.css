@@ -148,7 +148,8 @@ section { padding: 2.75rem 0; }
 .kv-row dt { color: var(--muted); }
 .kv-row dd { margin: 0; }
 
-.channels a.channel {
+.channels a.channel,
+.channels .channel {
   display: flex; flex-direction: column; gap: 0.35rem;
   text-decoration: none; color: inherit;
   transition: border-color 0.15s, transform 0.15s;
@@ -158,6 +159,11 @@ section { padding: 2.75rem 0; }
   transform: translateY(-2px);
   text-decoration: none;
 }
+.channels .channel-soon {
+  opacity: 0.92;
+  cursor: default;
+}
+.channels .channel-soon .url { color: var(--muted); }
 .channels .name { font-weight: 700; color: var(--text); }
 .channels .url { color: var(--accent-2); font-size: 0.86rem; word-break: break-all; }
 
