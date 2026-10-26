@@ -15,8 +15,8 @@ Channels (in order):
 
 1. **Patreon** (EN, live): https://www.patreon.com/cw/opendigitallifelab
 2. **FANBOX** (JA-first + EN, live): https://opendigitallab.fanbox.cc
-3. GitHub Sponsors — coming soon
-4. Ko-fi — coming soon
+3. **Ko-fi** (live): https://ko-fi.com/opendigitallifelab
+4. GitHub Sponsors — coming soon
 
 Contact: opendigitallifelab@gmail.com
 
