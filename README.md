@@ -1,23 +1,20 @@
 # Open Digital Life Lab
 
-Research sponsorship page for **Physis Forge** — digital life that can sense and understand its world, through two connected lines:
+Public research page for **Physis Forge** — digital life that can sense and understand its world, through two connected lines:
 
 - **Cell Paradigm** — cognition
 - **Aisthesis — Ground** — perception
 
-What Aisthesis senses becomes what Cell Paradigm can learn from.
+What Aisthesis senses becomes what Cell Paradigm can learn from. The lines stay independent and meet at clear interfaces. Incomplete sensing leads to biased understanding, so the work prioritizes hard closed loops first.
 
-## Sponsor (platform only)
+## Vision
 
-Please support only through these pages. This is voluntary **research sponsorship** — not an investment, not a charity appeal, and not a donation drive. No equity or financial return. Spending is published by category; sponsor personal data is not published.
+We ask how life arises, and we forge digital life that can sense and understand its world.
 
-Channels (in order):
+## Contact
 
-1. **Patreon** (EN, live): https://www.patreon.com/cw/opendigitallifelab
-2. **FANBOX** (JA-first + EN, live): https://opendigitallab.fanbox.cc
-3. **Ko-fi** (live): https://ko-fi.com/opendigitallifelab
-4. GitHub Sponsors — coming soon
+Email: opendigitallifelab@gmail.com
 
-Contact: opendigitallifelab@gmail.com
+GitHub: https://github.com/zouting1973-sg/opendigitallifelab
 
 — The Physis Forge team
