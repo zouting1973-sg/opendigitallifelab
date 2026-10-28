@@ -1,20 +1,9 @@
 # Open Digital Life Lab
 
-Public research page for **Physis Forge** — digital life that can sense and understand its world, through two connected lines:
+Website of **Open Digital Life Lab**, operated by **Zhongsen Yike (Shanghai) Eco-Tech Co., Ltd.** (中森宜科（上海）生态科技有限公司), Shanghai, China.
 
-- **Cell Paradigm** — cognition
-- **Aisthesis — Ground** — perception
+Digital products (technical briefs, template/data packs, 3D model files) and remote technical consulting services. Prices in USD, payment by PayPal, delivery by email.
 
-What Aisthesis senses becomes what Cell Paradigm can learn from. The lines stay independent and meet at clear interfaces. Incomplete sensing leads to biased understanding, so the work prioritizes hard closed loops first.
+Live: https://zouting1973-sg.github.io/opendigitallifelab/
 
-## Vision
-
-We ask how life arises, and we forge digital life that can sense and understand its world.
-
-## Contact
-
-Email: opendigitallifelab@gmail.com
-
-GitHub: https://github.com/zouting1973-sg/opendigitallifelab
-
-— The Physis Forge team
+Contact: opendigitallifelab@gmail.com
